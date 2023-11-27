@@ -50,7 +50,7 @@ function Portfolio() {
                     <div className="portfolio__item-image">
                         <img src={img4} alt='work1' />
                     </div>
-                    <h3>App de Pokemon</h3>
+                    <h3>App de Pokemon "En desarrollo"</h3>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com" className="btn">Github</a>
                         <a href="https://dribble.com" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
