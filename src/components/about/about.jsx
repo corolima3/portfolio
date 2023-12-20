@@ -43,7 +43,7 @@ function About() {
                          el medio para canalizar mis ambiciones. Lo admirable en esta área, es que uno no requiere grandes recursos, para crear lo que uno imagina...
                          <br/>
                          <br/>
-                        Tengo un conocimeiento intermedio en stack MERN y PERN. En node js y React son avanzados.
+                        Tengo conocimiento intermedio en stack MERN y PERN. En node js y React son avanzados.
                         <br/>
                         <br/>
                         Actualmente me encuentro aprendiendo PHP.

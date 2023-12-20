@@ -43,9 +43,8 @@
 .experience__details-iconCgAdd {
     margin-top: 6px;
     color: var(--color-light);
-    transform: scale(2.1);
+    transform: scale(1.8);
 }
-
 
 /*------------MEDIA QUERIES (MEDIUM DEVICES)----------*/
 
