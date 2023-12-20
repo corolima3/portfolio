@@ -36,9 +36,9 @@ function About() {
                             <small>4+ Completed</small>
                         </article>
                     </div>
-                    <p>"I'm a programmer with a background in International Business; I stumbled upon programming by accident. 
+                    <p>I'm a programmer with a background in International Business; I stumbled upon programming by accident. 
                         I decided to change professions due to the monotony of my previous job. As someone with an inherent passion for work, 
-                        I found in coding a means to channel my ambitions. What's admirable about this field is that it doesn't require significant resources to create what one envisions..</p>
+                        I found in coding a means to channel my ambitions. What's admirable about this field is that it doesn't require significant resources to create what one envisions...</p>
                 <a href="#contact" className="btn btn-primary">Let's talk</a>
                 </div>
             </div>
