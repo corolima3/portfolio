@@ -31,7 +31,7 @@ function Portfolio() {
                     <h3>App videogames</h3>
                     <div className="portfolio__item-cta">
                         <a href="https://github.com/corolima3/front-videogames" className="btn">Github</a>
-                        <a href="front-videogames-psi.vercel.app" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+                        <a href="https://front-videogames-psi.vercel.app" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
 
                     </div>
                 </article>
