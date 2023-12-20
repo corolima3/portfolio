@@ -42,7 +42,7 @@
 }
 .experience__details-iconCgAdd {
     margin-top: 6px;
-    color: var(--color-primary);
+    color: var(--color-light);
     transform: scale(2.1);
 }
 

@@ -42,7 +42,9 @@ function About() {
                         Decidí realizar un cambio de profesión debido a la monotonía de mi trabajo previo. Como una persona con pasión al trabajo, encontré en la programación,
                          el medio para canalizar mis ambiciones. Lo admirable en esta área, es que uno no requiere grandes recursos, para crear lo que uno imagina...
                          <br/>
+                         <br/>
                         Tengo un conocimeiento intermedio en stack MERN y PERN. En node js y React son avanzados.
+                        <br/>
                         <br/>
                         Actualmente me encuentro aprendiendo PHP.
                         <br/>
