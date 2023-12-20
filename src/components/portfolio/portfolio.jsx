@@ -10,7 +10,7 @@ import img4 from '../../assets/Captura de pantalla 2023-11-20 164047.png'
 function Portfolio() {
     return (
         <section id='portfolio' className="px600">
-            <h5>My Recent Work</h5>
+            <h5>En lo que trabaje</h5>
             <h2>Portfolio</h2>
             <div className='container portfolio__container'>
                 <article className='portfolio__item'>

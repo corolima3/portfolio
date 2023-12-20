@@ -8,7 +8,7 @@ function Header() {
     return (
         <header id="header">
             <div className="container header__container">
-                <h5>Hello I'm</h5>
+                <h5>Hola, soy</h5>
                 <h1>Coro Lima Jose</h1>
                 <h5 className='text-light'>Fullstack Developerk </h5>
                 <CTA />

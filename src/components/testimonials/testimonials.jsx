@@ -23,8 +23,7 @@ function Testimonials() {
                     <img src={avt2} alt="avatar one" />
                 </div>
                 <h5 className="client__name">ernest</h5>
-                <small className="client__review">Lorem ipsum dolor,
-                    sit amet consectetur adipisicing elit. Vero provident aut</small>
+                <small className="client__review">Lorem ident aut</small>
             </article>
             <article className="testimonial">
                 <div className="client__avatar">
