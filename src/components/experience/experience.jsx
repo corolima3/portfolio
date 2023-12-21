@@ -13,10 +13,12 @@ function Experience() {
                     <h3>Experiencia</h3>
                     <div className="experience">
                         <article className="experience__details">
-                            <CgAdd  className="experience__details-iconCgAdd" />
-                            <p>Desarrollo e implementación de interfaces web responsive utilizando React.js y TypeScript,
-                                 creando interacciones con el cliente basadas en las especificaciones de diseño.
-                            </p>
+                            <CgAdd className="experience__details-iconCgAdd" />
+                            
+                                <p>Desarrollo e implementación de interfaces web responsive utilizando React.js y TypeScript,
+                                    creando interacciones con el cliente basadas en las especificaciones de diseño.
+                                </p>
+
                         </article>
                     </div>
                 </div>

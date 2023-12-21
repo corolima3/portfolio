@@ -39,6 +39,9 @@ function About() {
                     <p>Soy graduado en Licenciatura en Comercio Internacional. También desarrollador full stack.
                         <br/>
                         <br/>
+                        "Yo tengo ambiciones, no me quedo quieto".
+                        <br/>
+                        <br/>
                         Decidí realizar un cambio de profesión debido a la monotonía de mi trabajo previo. Como una persona con pasión al trabajo, encontré en la programación,
                          el medio para canalizar mis ambiciones. Lo admirable en esta área, es que uno no requiere grandes recursos, para crear lo que uno imagina...
                          <br/>
@@ -46,9 +49,8 @@ function About() {
                         Tengo conocimiento intermedio en stack MERN y PERN. En node js y React son avanzados.
                         <br/>
                         <br/>
-                        Actualmente me encuentro aprendiendo PHP.
-                        <br/>
-                        Antes de cerrar quisiera enfatizar, que son mis ambiciones, las que cada día me coaccionan a superar me.  </p>
+                        Actualmente me encuentro aprendiendo C#.
+                         </p>
                     <a href="#contact" className="btn btn-primary">Contáctame</a>
                 </div>
             </div>

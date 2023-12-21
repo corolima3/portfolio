@@ -56,7 +56,7 @@ function Contact() {
                         <MdOutlineEmail className="contact__option-icon" />
                         <h4>email</h4>
                         <h5>josecorolima@gmail.com</h5>
-                        <a href="mailto:@gmail.com" target="_blank" rel="noreferrer">Envia un mensaje</a>
+                        <a href="mailto:josecorolima@gmail.com" target="_blank" rel="noreferrer">Envia un mensaje</a>
                     </article>
                     <article className="contact__option">
                         <RiMessengerLine className="contact__option-icon" />

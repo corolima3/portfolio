@@ -10,6 +10,7 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    
 }
 
 .experience__container>div:hover {
@@ -40,10 +41,11 @@
     margin-top: 6px;
     color: var(--color-primary);
 }
-.experience__details-iconCgAdd {
+.experience__details .experience__details-iconCgAdd {
     margin-top: 6px;
+    width: 3rem;
     color: var(--color-light);
-    transform: scale(1.8);
+    transform: scale(1.5);
 }
 
 /*------------MEDIA QUERIES (MEDIUM DEVICES)----------*/
@@ -55,7 +57,7 @@
     }
 
     .experience__container>div {
-        width: 80%;
+    
         padding: 2rem;
         margin: 0 auto;
 
@@ -72,7 +74,7 @@
 
 @media screen and (max-width: 600px) {
     .experience__container {
-        gap: 1rem;
+        gap: 0rem;
         
     }
     .experience__content{
@@ -80,9 +82,19 @@
         grid-template-columns: repeat(2,1fr);
         row-gap: 2rem;
     }
-    .experience__container .experience__frontend {
-        width: 100%;
+    .experience__container .experience__frontend, .experience__container .experience__backend  {
+        background: var(--color-bg-variant);
         padding: 2rem 1rem;
+    }
+    
+    .experience__details {
+        display: block;
+        gap: 2.5rem;
+        
+    }
+    .experience__details .experience__details-iconCgAdd {
+        margin-bottom: 1rem;
+        
     }
     
 }
