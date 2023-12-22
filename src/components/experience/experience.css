@@ -35,17 +35,26 @@
 .experience__details {
     display: flex;
     gap: 1rem;
-}
 
+}
+.experience__details p{
+    text-align:left;
+    padding-block: 1rem;
+}
 .experience__details-icon {
     margin-top: 6px;
     color: var(--color-primary);
+    
+
 }
 .experience__details .experience__details-iconCgAdd {
-    margin-top: 6px;
+    margin-top: 1.5rem;
+    flex-grow: 0;
     width: 3rem;
     color: var(--color-light);
     transform: scale(1.5);
+    flex-shrink: 0;
+   
 }
 
 /*------------MEDIA QUERIES (MEDIUM DEVICES)----------*/
@@ -84,7 +93,8 @@
     }
     .experience__container .experience__frontend, .experience__container .experience__backend  {
         background: var(--color-bg-variant);
-        padding: 2rem 1rem;
+       padding-inline: 1rem;
+       width: 100%;
     }
     
     .experience__details {
@@ -93,7 +103,7 @@
         
     }
     .experience__details .experience__details-iconCgAdd {
-        margin-bottom: 1rem;
+        margin-bottom: 0.3rem;
         
     }
     

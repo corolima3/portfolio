@@ -10,17 +10,22 @@ function Experience() {
             <h2>Habilidades y experiencia</h2>
             <div className="container experience__container">
                 <div className="experience__frontend">
-                    <h3>Experiencia</h3>
+                    <h3>Experiencia y logros</h3>
                     <div className="experience">
                         <article className="experience__details">
                             <CgAdd className="experience__details-iconCgAdd" />
-                            
-                                <p>Desarrollo e implementación de interfaces web responsive utilizando React.js y TypeScript,
-                                    creando interacciones con el cliente basadas en las especificaciones de diseño.
-                                </p>
-
+                            <p>Asesoramiento y desarrollo de las rutas y conexión a la base de datos. Cooperé y lideré el diseño estructural de la base de datos, aplicando los principios SOLID y el paradigma POO.</p>
+                        </article>
+                        <article className="experience__details">
+                            <CgAdd className="experience__details-iconCgAdd" />
+                            <p>Implementación de middleware en las rutas Backend. Logré la funcionalidad de Cloudinary y Sendgrid, lo que me permite agregar funciones como la carga de imágenes y el envío de correos electrónicos.</p>
+                        </article>
+                        <article className="experience__details">
+                            <CgAdd className="experience__details-iconCgAdd" />
+                            <p>Diseño y desarrollo de interfaces web responsive. Tengo sólidos conocimientos en layout.</p>
                         </article>
                     </div>
+
                 </div>
                 <div className="experience__backend">
                     <h3>Frontend Develop</h3>
